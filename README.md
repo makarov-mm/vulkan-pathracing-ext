@@ -20,7 +20,7 @@ compute-shader software tracer.
 Zero external dependencies beyond the Vulkan SDK itself: the window is created
 with raw Win32 (no GLFW) and all math is inline (no GLM).
 
-![preview](preview4.png)
+![preview](preview5.png)
 
 ## Features
 
