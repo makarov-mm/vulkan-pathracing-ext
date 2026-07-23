@@ -30,8 +30,8 @@
 // -----------------------------------------------------------------------------
 //  Small helpers
 // -----------------------------------------------------------------------------
-static const uint32_t WIDTH  = 800;
-static const uint32_t HEIGHT = 800;
+static const uint32_t WIDTH  = 1920;
+static const uint32_t HEIGHT = 1080;
 
 #ifdef NDEBUG
 static const bool kEnableValidation = false;
